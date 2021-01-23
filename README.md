@@ -1,0 +1,1 @@
+# Following-is-the-2-D-array.-Print-max-from-axis-0-and-min-from-axis-1
